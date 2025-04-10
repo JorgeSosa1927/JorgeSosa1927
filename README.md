@@ -25,7 +25,7 @@ Team project developed as part of TC3007C.501 at Tecnológico de Monterrey. It c
 ---
 
 ### 💾 Big Data  
-**[Russian Job Market Analysis (Coming Soon)](./BigData/Project_Name)**  
+**[Russian Job Market Analysis (Coming Soon)](./BigData/)**  
 This project is currently under development. It aims to explore the Russian job market by analyzing data from various employment platforms. The goal is to extract insights from job listings and candidate profiles, identify regional trends and in-demand skills, and use NLP techniques to uncover key industry dynamics specific to Russia.
 
 ---
